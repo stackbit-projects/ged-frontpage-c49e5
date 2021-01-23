@@ -98,7 +98,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: 'iSucceed.app - '
+meta_title: iSucceed.app - GED Exam Prep System
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
