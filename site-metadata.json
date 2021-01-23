@@ -117,17 +117,6 @@
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "content": "&copy; iSucceed.app | go2core.ai | Competency Systems. All rights reserved. This site is powered by <a href=\"https://dmi.systems\" target=\"_blank\">Digital Media Initiatives, India</a>."
