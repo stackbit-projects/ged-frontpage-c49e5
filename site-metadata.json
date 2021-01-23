@@ -1,6 +1,6 @@
 {
     "base_font": "nunito-sans",
-    "palette": "cyan",
+    "palette": "orange",
     "header": {
         "logo_img": "images/logo-neon_1500px.png",
         "logo_img_alt": "iSucceed.app | Powered by Go2core.ai",
