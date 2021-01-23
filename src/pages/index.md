@@ -18,7 +18,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Competency Systems
+    subtitle: Competency Systems s
     features:
       - title: Competency Based Approach to Success!
         image: images/feature1.png
