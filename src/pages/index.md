@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/12_thumb.jpg
     image_alt: App preview
-    title: '#1 most recognized higher secondary certificate worldwide!'
+    title: 'GED: #1 most recognized higher secondary certificate worldwide!'
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
