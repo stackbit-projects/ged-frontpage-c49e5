@@ -99,6 +99,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: iSucceed.app - GED Exam Prep System
-meta_description: The preview of the Azimuth theme
+meta_description: Most powerful GED Exam preparatory system
 template: landing
 ---
