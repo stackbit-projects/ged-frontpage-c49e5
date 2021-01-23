@@ -6,9 +6,12 @@ sections:
     image: images/12_thumb.jpg
     image_alt: App preview
     title: 'GED: #1 most recognized higher secondary certificate worldwide!'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >+
+      Congratulations on choosing to take the GED exam!
+
+      Graduates prove their academic skills and knowledge in the basic subject
+      areas of reading, writing, math, science, and social studies.
+
     actions:
       - label: Learn More
         url: /features
