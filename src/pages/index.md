@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/12_thumb.jpg
     image_alt: App preview
-    title: 'GED: #1 most recognized higher secondary certificate worldwide!'
+    title: We offer practice tests to help you with your GED preparation.
     content: |
       ### Congratulations on choosing to take the GED exam!
     actions:
