@@ -6,8 +6,8 @@ sections:
     image: images/12_thumb.jpg
     image_alt: App preview
     title: >-
-      We offer practice tests and learning resources to help you with your GED
-      preparation.
+      We offer Competency-based practice tests and learning resources to help
+      you with your GED preparation.
     content: |
       ### #1 most recognized higher secondary certificate worldwide.
     actions:
