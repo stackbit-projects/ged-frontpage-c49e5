@@ -27,10 +27,10 @@ sections:
       - title: Competency Based Approach to Success!
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          The Competency Systems ® is the next-generation teaching-learning
+          platform that integrates neuroscience, learning science and artificial
+          intelligence.
         actions:
           - label: Learn More
             url: /features
