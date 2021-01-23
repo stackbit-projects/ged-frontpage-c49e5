@@ -18,7 +18,11 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Competency Systems s
+    subtitle: >-
+      Competency Systems is a powerful next generation digital learning
+      environment that enables you to align with the requisite competencies need
+      to succeed in the high-school equivalency test - the General Educational
+      Development (GED) test.
     features:
       - title: Competency Based Approach to Success!
         image: images/feature1.png
