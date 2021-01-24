@@ -39,10 +39,7 @@ sections:
       - title: GED
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: "High school graduation rates have soared in recent years, but there are still millions of Americans who didn’t get a diploma in high school. Their best shot at earning one is passing a high-school equivalency exam, what was known as the GED before 2014 but has now splintered into three exam options: the\_**new GED**, the\_**TASC**\_and the\_**HiSET**. \n\nWe support you with practice tests to prepare for a high-school equivalency exam.\n"
         actions:
           - label: Learn More
             url: /features
