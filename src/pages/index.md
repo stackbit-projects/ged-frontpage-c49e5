@@ -9,7 +9,7 @@ sections:
       We offer Competency-based practice tests and learning resources to help
       you with your GED and HiSET preparation.
     content: |
-      ### #1 higher school equivalency test preparatory system.
+      ### #1 high-school equivalency test preparatory system.
     actions:
       - label: Learn More
         url: /features
