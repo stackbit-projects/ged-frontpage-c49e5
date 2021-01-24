@@ -50,10 +50,8 @@ sections:
       - title: A second-chance opportunity!
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |
+          A second-chance credential to get a better job or a college degree!
         actions:
           - label: Learn More
             url: /features
