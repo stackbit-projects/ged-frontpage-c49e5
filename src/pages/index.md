@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: We offer Competency Based GED preparation.
     content: |
-      ### #1 high-school equivalency test preparatory system.
+      # We enable Sustainable Social Change through Education&#xA;&#xA;
     actions:
       - label: Learn More
         url: /features
