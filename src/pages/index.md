@@ -80,9 +80,7 @@ sections:
     type: section_reviews
     background: gray
     title: Key Initiatives
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: ''
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
