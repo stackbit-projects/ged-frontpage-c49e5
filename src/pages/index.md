@@ -112,7 +112,7 @@ sections:
   - section_id: Programs
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Our Programs
 meta_title: iSucceed.app - GED Exam Prep System
 meta_description: Most powerful GED Exam preparatory system
 template: landing
