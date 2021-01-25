@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/12_thumb.jpg
     image_alt: App preview
-    title: We offer Competency-based GED preparation.
+    title: We offer Competency Based GED preparation.
     content: |
       ### #1 high-school equivalency test preparatory system.
     actions:
