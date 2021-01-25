@@ -14,7 +14,7 @@ sections:
         style: primary
   - section_id: features
     type: section_features
-    background: gray
+    background: white
     title: Features
     subtitle: >-
       A powerful next generation digital learning environment to succeed in the
