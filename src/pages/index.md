@@ -21,7 +21,7 @@ sections:
       high-school equivalency tests.
     features:
       - title: Competency Based Approach to Success!
-        image: images/feature1.png
+        image: images/heylagostechie-IgUR1iX0mqM-unsplash.jpg
         image_alt: App preview on a phone and tablet
         content: >
           The Competency Systems ® is the next-generation teaching-learning
