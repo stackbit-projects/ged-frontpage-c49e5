@@ -67,8 +67,7 @@ sections:
       - title: A second-chance opportunity!
         image: images/christina-wocintechchat-com-FPQlXQtjkqU-unsplash.jpg
         image_alt: App user profile preview
-        content: |
-          A second-chance credential to get a better job or a college degree!
+        content: "## Our Goals:\n\n*   **Empower** marginalized communities and **create sustainable change**\r    .\n\n*   **Provide pathways** to higher education and vocational training\r    .\n\n*   Improve **economic opportunities** to the migrant youth through capacity building\r    .\n\n*   **Broaden student horizons** and promote understanding of, and interaction between, the diverse individuals and communities of the region through cultural exchanges and programs.\n"
         actions:
           - label: Learn More
             url: /features
