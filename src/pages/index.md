@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: '#1 High-School Equivalency test preparatory system.'
     content: |
-      ### We enable Sustainable Social Change through Education.&#xA;&#xA;
+      ### Prepare for successful life outcomes through education.&#xA;&#xA;
     actions:
       - label: Learn More
         url: /features
