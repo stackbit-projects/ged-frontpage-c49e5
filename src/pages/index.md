@@ -81,7 +81,7 @@ sections:
     background: gray
     title: Key Initiatives
     subtitle: >-
-      AIW envisions people-oriented, peaceful, and developed communities in
+      AIW  envisions people-oriented, peaceful, and developed communities in
       Myanmar and Thailand, which can be sustained by empowering local
       communities through comprehensive and continuous access to education.
     reviews:
