@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/12_thumb.jpg
+    image: images/linkedin-sales-navigator-jJFrkJP_-RA-unsplash.jpg
     image_alt: App preview
     title: We offer Competency Based GED preparation.
     content: |
