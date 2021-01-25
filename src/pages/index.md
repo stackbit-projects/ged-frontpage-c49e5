@@ -17,8 +17,8 @@ sections:
     background: white
     title: Our Programs
     subtitle: >-
-      A powerful next generation digital learning environment to succeed in the
-      high-school equivalency tests.
+      Our programs are based on a powerful next generation digital learning
+      environment to attain successful life outcomes.
     features:
       - title: Competency Based Approach to Success!
         image: images/heylagostechie-IgUR1iX0mqM-unsplash.jpg
