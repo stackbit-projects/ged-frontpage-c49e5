@@ -65,7 +65,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: A second-chance opportunity!
-        image: images/feature3.png
+        image: images/christina-wocintechchat-com-FPQlXQtjkqU-unsplash.jpg
         image_alt: App user profile preview
         content: |
           A second-chance credential to get a better job or a college degree!
