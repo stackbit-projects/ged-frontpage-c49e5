@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Features
+    title: Our Programs
     subtitle: >-
       A powerful next generation digital learning environment to succeed in the
       high-school equivalency tests.
