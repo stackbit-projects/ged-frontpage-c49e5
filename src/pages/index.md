@@ -54,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: High-school Equivalency
-        image: images/feature2.png
+        image: images/james-mckinven-UjD4BnrA4kw-unsplash.jpg
         image_alt: App users welcoming a new member
         content: "High school graduation rates have soared in recent years, but there are still millions of Americans who didn’t get a diploma in high school. Their best shot at earning one is passing a high-school equivalency exam, what was known as the GED before 2014 but has now splintered into three exam options: the\_**new GED**, the\_**TASC**\_and the\_**HiSET**. \n\nWe support you with practice tests to prepare for a high-school equivalency exam.\n"
         actions:
