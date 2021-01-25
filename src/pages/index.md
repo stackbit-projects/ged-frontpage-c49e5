@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/12_thumb.jpg
     image_alt: App preview
-    title: >-
-      We offer Competency-based practice tests and learning resources to help
-      you with your GED, HiSET, and TASC preparation.
+    title: We offer Competency-based GED preparation.
     content: |
       ### #1 high-school equivalency test preparatory system.
     actions:
