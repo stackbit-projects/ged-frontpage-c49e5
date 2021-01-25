@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/linkedin-sales-navigator-jJFrkJP_-RA-unsplash.jpg
     image_alt: App preview
-    title: We offer Competency Based GED preparation.
+    title: '#1 high-school equivalency test preparatory system.'
     content: |
       ### We enable Sustainable Social Change through Education.&#xA;&#xA;
     actions:
