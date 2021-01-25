@@ -80,7 +80,10 @@ sections:
     type: section_reviews
     background: gray
     title: Key Initiatives
-    subtitle: ''
+    subtitle: >-
+      BEAM envisions people-oriented, peaceful, and developed communities in
+      Myanmar and Thailand, which can be sustained by empowering local
+      communities through comprehensive and continuous access to education.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
