@@ -109,7 +109,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
+  - section_id: Programs
     type: section_posts
     background: gray
     title: Latest Posts
