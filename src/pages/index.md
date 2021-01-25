@@ -85,7 +85,7 @@ sections:
       local communities through comprehensive and continuous access to
       education.
     reviews:
-      - author: John Doe
+      - author: Brijesh Kumar
         avatar: images/brijesh.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
