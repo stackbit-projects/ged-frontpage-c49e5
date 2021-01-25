@@ -27,6 +27,25 @@ sections:
           The Competency Systems ® is the next-generation teaching-learning
           platform that integrates neuroscience, learning science and artificial
           intelligence.
+
+
+          *   Our GED Prep system is based on the Learning Outcomes Framework
+          that enables coherent and rigorous set of educational goals.
+
+
+          *   The system offers you an excellent preparation of English language
+          as ESOL.
+
+
+          *   Learning experience is designed to align with the GED Learning
+          Outcomes.
+
+
+          *   Necessary knowledge areas, skills and dispositions are imparted
+          for your successful life outcomes.   
+
+
+          *   Most affordable preparatory system.
         actions:
           - label: Learn More
             url: /features
