@@ -76,7 +76,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: 'key '
+  - section_id: key points
     type: section_reviews
     background: gray
     title: Testimonials
