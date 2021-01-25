@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: white
-    title: Our Programs
+    title: We enable Sustainable Social Change through Education
     subtitle: >-
       Our programs are based on a powerful next generation digital learning
       environment to attain successful life outcomes.
