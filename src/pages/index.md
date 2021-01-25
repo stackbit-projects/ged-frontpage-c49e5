@@ -79,7 +79,7 @@ sections:
   - section_id: key points
     type: section_reviews
     background: gray
-    title: Testimonials
+    title: 'Key '
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
